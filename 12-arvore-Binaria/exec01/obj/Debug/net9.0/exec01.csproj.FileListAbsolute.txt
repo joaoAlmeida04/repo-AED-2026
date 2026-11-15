@@ -1,0 +1,14 @@
+C:\AED2026\lista12\exec01\bin\Debug\net9.0\exec01.exe
+C:\AED2026\lista12\exec01\bin\Debug\net9.0\exec01.deps.json
+C:\AED2026\lista12\exec01\bin\Debug\net9.0\exec01.runtimeconfig.json
+C:\AED2026\lista12\exec01\bin\Debug\net9.0\exec01.dll
+C:\AED2026\lista12\exec01\bin\Debug\net9.0\exec01.pdb
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\exec01.GeneratedMSBuildEditorConfig.editorconfig
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\exec01.AssemblyInfoInputs.cache
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\exec01.AssemblyInfo.cs
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\exec01.csproj.CoreCompileInputs.cache
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\exec01.dll
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\refint\exec01.dll
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\exec01.pdb
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\exec01.genruntimeconfig.cache
+C:\AED2026\lista12\exec01\obj\Debug\net9.0\ref\exec01.dll
