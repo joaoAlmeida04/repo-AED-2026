@@ -98,11 +98,11 @@ namespace exe02
             if(i == null) // caso seja null significa que percorremos toda a arvore
             {
                 return 0;
-            }else if (i.Esq == null && i.Dir == null) // verifica se o no tem algum filho(ou seja o da esq ou dir != null) se sim soma 1
+            }else if (i.Esq == null && i.Dir == null) // verifica se o no é uma folha se for nao soma
             {
                 return 0;
             }
-            else //recursividade para percorrer toda a arvore
+            else //recursividade para percorrer toda a arvore e somar quando for interno
             {
                 return 1 + ContarNosInternos(i.Esq) + ContarNosInternos(i.Dir);
             }
