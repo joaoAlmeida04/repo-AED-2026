@@ -7,16 +7,16 @@ namespace exe02
         static void Main(string[] args)
         {
             /*Escreva um método que percorra uma árvore binária de pesquisa e conte o número de nós 
-folhas. Ao final, retorne essa informação.*/
+            folhas. Ao final, retorne essa informação.*/
 
             ArvoreBinaria arvore = new ArvoreBinaria();
-            arvore.Inserir(50);
-            arvore.Inserir(30);
-            arvore.Inserir(70);
-            arvore.Inserir(20);
-            arvore.Inserir(40);
-            arvore.Inserir(60);
-            arvore.Inserir(80);
+            arvore.Inserir(50); //interno
+            arvore.Inserir(30);//interno
+            arvore.Inserir(70);//interno
+            arvore.Inserir(20);//externo
+            arvore.Inserir(40);//externo
+            arvore.Inserir(60);//externo
+            arvore.Inserir(80);//externo
 
             int numNosInternos = arvore.ContarNosInternos(arvore.Raiz);
             Console.WriteLine("Número de nós internos: " + numNosInternos);
@@ -95,32 +95,41 @@ folhas. Ao final, retorne essa informação.*/
 
         public int ContarNosInternos(No i)
         {
-           
+            if(i == null) // caso seja null significa que percorremos toda a arvore
+            {
+                return 0;
+            }else if (i.Esq == null && i.Dir == null) // verifica se o no tem algum filho(ou seja o da esq ou dir != null) se sim soma 1
+            {
+                return 0;
+            }
+            else //recursividade para percorrer toda a arvore
+            {
+                return 1 + ContarNosInternos(i.Esq) + ContarNosInternos(i.Dir);
             }
         }
     }
+}
 
-    class No
+class No
+{
+    private int elemento;
+    private No esq;
+    private No dir;
+    public No(int elemento)
     {
-        private int elemento;
-        private No esq;
-        private No dir;
-        public No(int elemento)
-        {
-            this.elemento = elemento;
-            esq = null;
-            dir = null;
-        }
-        public No(int elemento, No esq, No dir)
-        {
-            this.elemento = elemento;
-            this.esq = esq;
-            this.dir = dir;
-        }
-
-        public int Elemento { get => elemento; set => elemento = value; }
-        public No Esq { get => esq; set => esq = value; }
-        public No Dir { get => dir; set => dir = value; }
+        this.elemento = elemento;
+        esq = null;
+        dir = null;
+    }
+    public No(int elemento, No esq, No dir)
+    {
+        this.elemento = elemento;
+        this.esq = esq;
+        this.dir = dir;
     }
 
+    public int Elemento { get => elemento; set => elemento = value; }
+    public No Esq { get => esq; set => esq = value; }
+    public No Dir { get => dir; set => dir = value; }
 }
+
