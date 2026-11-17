@@ -1,0 +1,15 @@
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\bin\Debug\net9.0\exec03.exe
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\bin\Debug\net9.0\exec03.deps.json
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\bin\Debug\net9.0\exec03.runtimeconfig.json
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\bin\Debug\net9.0\exec03.dll
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\bin\Debug\net9.0\exec03.pdb
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.GeneratedMSBuildEditorConfig.editorconfig
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.AssemblyInfoInputs.cache
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.AssemblyInfo.cs
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.csproj.CoreCompileInputs.cache
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.sourcelink.json
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.dll
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\refint\exec03.dll
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.pdb
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\exec03.genruntimeconfig.cache
+C:\AED2026\repo-AED\repo-AED-2026\12-arvore-Binaria\exec03\obj\Debug\net9.0\ref\exec03.dll
