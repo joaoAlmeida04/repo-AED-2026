@@ -10,7 +10,7 @@ Repositório dedicado à implementação manual e estudo profundo de estruturas 
 *   **Recursividade:** Métodos recursivos para manipulação de strings e arrays.
 
 ## 📂 Estrutura do Projeto
-Cada diretório agrupa implementações baseadas em listas de exercícios propostas em sala, com o objetivo de aplicar na prática a lógica das estruturas de dados e os métodos de ordenação.
+Cada diretório agrupa implementações baseadas em listas de exercícios propostas em sala, com o objetivo de aplicar na prática a lógica das estruturas de dados e os métodos de ordenação. Para a entrega de atividade a orientação seria deixar um arquivo por exercicio(exec01.cs), dessa forma cada atividade tem sua solução implementada em apenas um .cs.
 
 ## 🛠️ Tecnologias
 - C# (.NET)
