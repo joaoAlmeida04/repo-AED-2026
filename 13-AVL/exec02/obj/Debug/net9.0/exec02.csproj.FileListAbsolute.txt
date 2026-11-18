@@ -1,0 +1,15 @@
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.GeneratedMSBuildEditorConfig.editorconfig
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.AssemblyInfoInputs.cache
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.AssemblyInfo.cs
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.csproj.CoreCompileInputs.cache
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.sourcelink.json
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\bin\Debug\net9.0\exec02.exe
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\bin\Debug\net9.0\exec02.deps.json
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\bin\Debug\net9.0\exec02.runtimeconfig.json
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\bin\Debug\net9.0\exec02.dll
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\bin\Debug\net9.0\exec02.pdb
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.dll
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\refint\exec02.dll
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.pdb
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\exec02.genruntimeconfig.cache
+C:\AED2026\repo-AED\repo-AED-2026\13-AVL\exec02\obj\Debug\net9.0\ref\exec02.dll
