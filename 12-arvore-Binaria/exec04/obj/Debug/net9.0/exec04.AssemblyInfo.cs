@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exec04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b43f5d757b4f506d6e896529e59b28b9c0012d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+909ec2ef62cf39d0dad8fb79266f8f67aff59037")]
 [assembly: System.Reflection.AssemblyProductAttribute("exec04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exec04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
